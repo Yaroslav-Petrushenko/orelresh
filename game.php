@@ -32,7 +32,7 @@
         </p>
      
    <?php
-    var_dump($_POST);
+    
     
     if ($_POST){
         $level = $_POST['level']; // ease medium hard

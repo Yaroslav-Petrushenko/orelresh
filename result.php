@@ -11,7 +11,7 @@
         <h1>Your Result</h1>
 
         <?php
-        var_dump($_POST);
+        
 
         $win = $_POST['win'];
         $lose = $_POST['lose'];

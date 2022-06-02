@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-       var_dump($_POST);
+       
 
        
        if(isset($_POST['disabled'])){
